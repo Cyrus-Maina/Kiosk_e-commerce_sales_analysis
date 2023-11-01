@@ -9,14 +9,17 @@ Enhance customer satisfaction, and
 Drive business growth.
 
 **DATA OVERVIEW**
+
 The dataset was sourced from Kaggle. It has two tables, df1 and df2 which we analyzed differently. 
 Df1 includes extensive data, considering it is an e-commerce platform which requires numerous data such as: Age, Gender, Payment Method, Previous Purchases, Promo Code Used, and many other data points we will see.
 These data points are crucial as they help us map the customer journey thus we can plot to make it more efficient and engaging.
 
 **DATA CLEANING**
+
 The dataset had no null values and no data in need of transformation.
 
 **STATISTICAL DATA ANALYSIS**
+
 From the descriptive analysis, we deduced:
 The Mean and middle age of the users is 44 years, the youngest user is 18 years while the eldest at 70 years
 The mean price for the products is $59, the cheapest at 20 and the most expensive at 100
