@@ -138,6 +138,7 @@ This metric may reflect users prefer fast and free shipping thus such an insight
 From the other preferred methods that are store pickups and standard, we can safely deduce customers put a premium on convenience and speed, an insight Kiosk can maximize on.
 
 CONCLUSION
+
 When put into consideration, the insights above provide a new and fresh perspective on the daily operations. 
 
 Customer preferences have been deduced from items purchased, ratings and colors, profits can be maximized by reducing slow moving inventory like jeans, app compatibility can be enhanced to smoothen credit card payments, targeted marketing can be used on certain age brackets to woo them into buying a subscription plan,
